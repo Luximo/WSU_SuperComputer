@@ -253,3 +253,6 @@ There's no documentation on how to transfer files or connect to WSU HPC or so...
 I need to ask Prof KD...
 
 I will be back...😎
+
+## Resources
+- [Singularity Quick-Start guide](https://github.com/mkijowski/container-education/tree/master/1_singularity)
